@@ -16,18 +16,8 @@ I'm a phishing security researcher interested in software development.
 
 ## GitHub Stats
 
-<!-- PROFILE_STATS_START -->
-
-| Statistic | Value |
-| --- | ---: |
-| Repositories | 11 |
-| Repositories contributed to | 0 |
-| Stars on owned repositories | 0 |
-| Commits since 2026 | 16 |
-| Followers | 0 |
-| Lines added / removed | +2,809 / -210 |
-| Net lines of code | 2,599 |
-
-_Last updated: 2026-10-03 22:29 UTC_
-
-<!-- PROFILE_STATS_END -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="serdire GitHub profile" src="dark_mode.svg">
+</picture>
