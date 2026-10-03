@@ -1,5 +1,13 @@
 # Hi, I'm serdire
 
+## GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="serdire GitHub profile" src="dark_mode.svg">
+</picture>
+
 I'm a phishing security researcher interested in software development.
 
 - **Host:** Trimble
@@ -14,10 +22,4 @@ I'm a phishing security researcher interested in software development.
 - **Email:** yashmahesh833@hotmail.com
 - **LinkedIn:** [in/yash-mahesh](https://www.linkedin.com/in/yash-mahesh)
 
-## GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-  <img alt="serdire GitHub profile" src="dark_mode.svg">
-</picture>
