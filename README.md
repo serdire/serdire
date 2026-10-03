@@ -18,6 +18,16 @@ I'm a phishing security researcher interested in software development.
 
 <!-- PROFILE_STATS_START -->
 
-Stats will appear here after the GitHub Actions workflow runs.
+| Statistic | Value |
+| --- | ---: |
+| Repositories | 12 |
+| Repositories contributed to | 0 |
+| Stars on owned repositories | 0 |
+| Commits since 2026 | 15 |
+| Followers | 0 |
+| Lines added / removed | +2,828 / -224 |
+| Net lines of code | 2,604 |
+
+_Last updated: 2026-10-03 18:35 UTC_
 
 <!-- PROFILE_STATS_END -->
