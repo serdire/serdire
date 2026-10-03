@@ -23,7 +23,7 @@ jobs:
       - name: Fetch stats and update README
         env:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        run: python first
+        run: python first.py
 
       - name: Commit and push README changes
         run: |
