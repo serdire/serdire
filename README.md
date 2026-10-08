@@ -1,7 +1,7 @@
 
 
 
-## GitHub Stats
+## Hi, I'm Serdire 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
