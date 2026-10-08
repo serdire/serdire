@@ -50,8 +50,7 @@ class IsacMartins:
 
 ## 📊 > USER.STATS_
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serdire&theme=dark&short_numbers=true)]
-(https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serdire&theme=dark&short_numbers=true)](https://git.io/streak-stats)
   
 
 ## 🔮 > TECH.STACK_
