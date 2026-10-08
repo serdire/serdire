@@ -18,7 +18,7 @@ $ whoami
 
 <div align="center">
 
-![Snake Animation](https://github.com/0xb1ly/0xb1ly/blob/main/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake Animation](https://github.com/serdire/serdire/blob/main/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
 
@@ -51,12 +51,12 @@ class IsacMartins:
 ## 📊 > USER.STATS_
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb1ly&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb1ly&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serdire&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdire&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xb1ly&theme=chartreuse-dark&hide_border=false&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serdire&theme=chartreuse-dark&hide_border=false&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 </div>
 
 ## 🔮 > TECH.STACK_
@@ -105,7 +105,7 @@ class IsacMartins:
 ## 🏆 > ACHIEVEMENTS.UNLOCK_
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xb1ly&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=serdire&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ## 🤖 > MCP.SERVERS_
