@@ -50,13 +50,9 @@ class IsacMartins:
 
 ## 📊 > USER.STATS_
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serdire&theme=dark&short_numbers=true)](https://git.io/streak-stats)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdire&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serdire&theme=chartreuse-dark&hide_border=false&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serdire&theme=dark&short_numbers=true)]
+(https://git.io/streak-stats)
+  
 
 ## 🔮 > TECH.STACK_
 
