@@ -50,8 +50,7 @@ class IsacMartins:
 
 ## 📊 > USER.STATS_
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serdire&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=serdire&theme=dark&short_numbers=true)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdire&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
 </div>
 
