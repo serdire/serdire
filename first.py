@@ -18,7 +18,7 @@ OUTPUTS = {
     "dark": Path(__file__).resolve().with_name("dark_mode.svg"),
     "light": Path(__file__).resolve().with_name("light_mode.svg"),
 }
-WIDTH = 56
+WIDTH = 64
 
 ART = r"""
                                                                                            
