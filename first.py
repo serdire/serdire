@@ -171,6 +171,7 @@ query($owner: String!, $name: String!, $id: ID!, $cursor: String) {
     }
   }
 }
+}
 }"""
 
 
