@@ -243,7 +243,7 @@ def info_lines(stats):
         kv("Uptime", f"{years} years, {months} months, {days} days"),
         kv("Host", "Trimble"),
         kv("Phishing Analyst", "Security Researcher"),
-        kv("Antigravity, Gemini , VS Code"),
+        kv("IDE", "Antigravity, Gemini, VS Code"),
         [],
         kv("Languages.Programming", "Python, Java, C#, TypeScript"),
         kv("Languages.Real", "Hindi, English"),
